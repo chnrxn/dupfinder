@@ -1,3 +1,7 @@
+test_*
+*.zip
+*.db
+
 *.py[cod]
 
 # C extensions
